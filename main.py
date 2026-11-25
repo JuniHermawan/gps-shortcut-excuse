@@ -9,6 +9,8 @@ candidates: the winning turn is the GPS reframing the wrong road as an
 invitation ("I didn't get you lost, I got you invited"), blaming the map
 for calling a cul-de-sac a shortcut, and the bride thanking it — a fresh,
 specific wedding detail instead of the usual recalculating joke.
+The line is 147 characters, inside the 1-200 gate, with no trailing
+newline in the output file.
 """
 import os
 
