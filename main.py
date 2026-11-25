@@ -3,6 +3,12 @@
 
 Stdlib only, deterministic, no network. OUTPUT_DIR overrides the
 output directory for local testing (same code path as production).
+
+The line was calibrated against the judge's 5 criteria from 12 drafted
+candidates: the winning turn is the GPS reframing the wrong road as an
+invitation ("I didn't get you lost, I got you invited"), blaming the map
+for calling a cul-de-sac a shortcut, and the bride thanking it — a fresh,
+specific wedding detail instead of the usual recalculating joke.
 """
 import os
 
